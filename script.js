@@ -45,7 +45,7 @@ noButton.addEventListener("click", function() {
 yesButton.addEventListener("click", function() {
     // Промяна при успех
     questionText.innerText = "Yay!!! I love you! ❤️✨";
-    mainImage.src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtuM3Z4eHh6Z3Zxdm1mNHRreW5icXp6Z3Zxdm1mNHRreW5icXp6Z3Zxdm1mJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/UMON4GSJBnypy/giphy.gif"; // Снимка с празнуване
+    mainImage.src = "https://media.tenor.com/fK7v7q7fD7MAAAAi/kiss-sweet.gif";
     
     // Скриваме бутона "No"
     noButton.style.display = "none";
